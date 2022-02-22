@@ -23,7 +23,7 @@ and frequency. This of course assumes that an optimal layout process is used to 
 will also be made available
 
 While we do plan to tape out a few variants, given the foundry NDA requirements, we will not be able to 
-publish any layout/backend data. But the ASIC syntesis and P&R data to teh extent possible will be published
+publish any layout/backend data. But the ASIC syntesis and P&R data to the extent possible will be published
 to allow others to replicate our ASIC flow.
 
 
